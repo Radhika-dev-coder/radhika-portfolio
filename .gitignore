@@ -1,0 +1,15 @@
+﻿# build folder
+bin/
+obj/
+
+#visual Studio code
+.vs/ 
+*.user/
+*.suo
+
+#package 
+*.nupkg
+
+#publish
+publish/
+
