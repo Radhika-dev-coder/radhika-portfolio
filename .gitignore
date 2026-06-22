@@ -2,14 +2,13 @@
 bin/
 obj/
 
-#visual Studio code
-.vs/ 
-*.user/
+# Visual Studio
+.vs/
+*.user
 *.suo
 
-#package 
+# package
 *.nupkg
 
-#publish
+# publish
 publish/
-
